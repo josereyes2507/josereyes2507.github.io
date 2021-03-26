@@ -1,0 +1,23 @@
+body {
+  background-color: DodgerBlue;
+  font-family: "Verdana", Verdana, sans-serif !important;
+}
+
+h1 {
+  font-family: "Georgia", Georgia, serif !important;
+  text-align: center;
+  color: white;
+}
+
+body {
+  margin-top: 20px;
+  margin-bottom: 70px;
+  margin-right: 70px;
+  margin-left: 50px;
+  text-align: center;
+  color: white;
+}
+
+li {
+  font-family: "Times New Roman", Times, serif !important;
+}
